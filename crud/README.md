@@ -7,7 +7,7 @@ A simple CRUD API for managing tasks, projects and users built with FastAPI and 
 - User management (create, read, delete)
 - Project management (create, read, update, delete)
 - Task management with filtering capabilities (create, read, update, delete)
-- MySQL database integration
+- MySQL database integration.
 
 ## Project Structure
 
